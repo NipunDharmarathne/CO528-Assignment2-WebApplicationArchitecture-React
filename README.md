@@ -2,6 +2,6 @@
 
 Angle selector using React.
 
-Demo: https://github.com/NipunDharmarathne/CO528-Assignment2-WebApplicationArchitecture-React/deployments
+Demo: https://nipundharmarathne.github.io/CO528-Assignment2-WebApplicationArchitecture-React/
 
 <img width="500" alt="image" src="https://github.com/NipunDharmarathne/CO528-Assignment2-WebApplicationArchitecture-React/blob/main/angle_selector.jpeg">
